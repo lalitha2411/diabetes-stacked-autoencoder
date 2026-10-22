@@ -80,3 +80,14 @@ The results will be documented after successfully executing the notebook and ver
 ## Disclaimer
 
 This project is for academic and educational purposes only. It is not a medical diagnostic system.
+## Results and Visualizations
+
+### Reconstruction Loss
+This graph shows the training and validation reconstruction loss across epochs.
+
+![Reconstruction Loss](reconstruction_loss.png)
+
+### Classification Confusion Matrix
+This matrix shows the classification performance of the Stacked Autoencoder model.
+
+![Confusion Matrix](confusion_matrix.png)
