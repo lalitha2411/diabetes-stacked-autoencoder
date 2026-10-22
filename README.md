@@ -56,3 +56,27 @@ Results should be added after successfully running and validating the notebook.
 
 ## Disclaimer
 This is an academic machine-learning project and is not intended for clinical diagnosis.
+
+## Results and Evaluation
+
+The model is evaluated using the following measurements:
+
+- Training and validation reconstruction loss
+- Latent dimension comparison (8, 16, and 32)
+- Classification accuracy
+- Macro F1-score and weighted F1-score
+- Classification report and confusion matrix
+
+The results will be documented after successfully executing the notebook and verifying the outputs.
+
+## How to Run
+
+1. Open the notebook in Google Colab.
+2. Install the required libraries listed in `requirements.txt`.
+3. Load the CDC Diabetes Health Indicators dataset.
+4. Execute the notebook cells in order.
+5. Review the model evaluation metrics and plots.
+
+## Disclaimer
+
+This project is for academic and educational purposes only. It is not a medical diagnostic system.
